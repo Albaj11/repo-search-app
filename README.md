@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Git Repository Application 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application will help users to search their repositories on GitHub. User will be able to see the search results, user can locally sort and filter the search by "repo name","owner","stargazers count","open issue count" and "watchers count".  [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
