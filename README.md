@@ -1,6 +1,24 @@
 # Git Repository Application 
 
-This application will help users to search their repositories on GitHub. User will be able to see the search results, user can locally sort and filter the search by "repo name","owner","stargazers count","open issue count" and "watchers count".  [Create React App](https://github.com/facebook/create-react-app).
+App is for repository search functionality where users can input any GitHub username and search for their repository. Users can locally sort and filter the search by "repo name","owner","stargazers count","open issue count" and "watchers count".
+
+## Technoloies used:
+
+React JS - Front-end framework
+Javascript
+CSS3 - Styling
+Jest - Unit testing
+
+## Deployed URL:
+
+http://192.168.1.101:3000/repo-search-app
+
+## Local run youTube video
+
+https://youtu.be/WiCVlohyv7Q
+
+
+
 
 ## Available Scripts
 
