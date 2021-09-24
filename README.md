@@ -4,8 +4,8 @@ App is for repository search functionality where users can input any GitHub user
 
 ## Technoloies used:
 
-React JS - Front-end 
-CSS3 - Styling
+React JS - Front-end library, 
+CSS3 - Styling,
 Jest - Unit testing
 
 ## Deployed URL:
