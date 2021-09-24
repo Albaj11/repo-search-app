@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/repo-search-app/static/css/main.3cf52080.chunk.css",
+    "main.js": "/repo-search-app/static/js/main.de8e96ec.chunk.js",
+    "main.js.map": "/repo-search-app/static/js/main.de8e96ec.chunk.js.map",
+    "runtime-main.js": "/repo-search-app/static/js/runtime-main.de7d9171.js",
+    "runtime-main.js.map": "/repo-search-app/static/js/runtime-main.de7d9171.js.map",
+    "static/js/2.8ad63f07.chunk.js": "/repo-search-app/static/js/2.8ad63f07.chunk.js",
+    "static/js/2.8ad63f07.chunk.js.map": "/repo-search-app/static/js/2.8ad63f07.chunk.js.map",
+    "static/js/3.c8cb0918.chunk.js": "/repo-search-app/static/js/3.c8cb0918.chunk.js",
+    "static/js/3.c8cb0918.chunk.js.map": "/repo-search-app/static/js/3.c8cb0918.chunk.js.map",
+    "index.html": "/repo-search-app/index.html",
+    "static/css/main.3cf52080.chunk.css.map": "/repo-search-app/static/css/main.3cf52080.chunk.css.map",
+    "static/js/2.8ad63f07.chunk.js.LICENSE.txt": "/repo-search-app/static/js/2.8ad63f07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de7d9171.js",
+    "static/js/2.8ad63f07.chunk.js",
+    "static/css/main.3cf52080.chunk.css",
+    "static/js/main.de8e96ec.chunk.js"
+  ]
+}
