@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`match snapshot 1`] = `
+Array [
+  <div
+    className="topSection"
+    data-testid="searchBox-1"
+  >
+    <h1
+      id="topHeader"
+    >
+      Search your repository
+    </h1>
+    <p>
+      A repository contains all the files of your project, including the revision history.
+    </p>
+  </div>,
+  <div
+    className="content"
+  >
+    <form
+      className="example"
+      style={
+        Object {
+          "margin": "auto",
+          "maxWidth": "300px",
+        }
+      }
+    >
+      <input
+        className="searchbox"
+        placeholder="Enter username"
+        type="text"
+      />
+      <button
+        onClick={[Function]}
+      >
+        <i
+          className="fa fa-search"
+        />
+      </button>
+    </form>
+  </div>,
+]
+`;
+
+exports[`match snapshot 2`] = `
+Array [
+  <div
+    className="topSection"
+    data-testid="searchBox-1"
+  >
+    <h1
+      id="topHeader"
+    >
+      Search your repository
+    </h1>
+    <p>
+      A repository contains all the files of your project, including the revision history.
+    </p>
+  </div>,
+  <div
+    className="content"
+  >
+    <form
+      className="example"
+      style={
+        Object {
+          "margin": "auto",
+          "maxWidth": "300px",
+        }
+      }
+    >
+      <input
+        className="searchbox"
+        placeholder="Enter username"
+        type="text"
+      />
+      <button
+        onClick={[Function]}
+      >
+        <i
+          className="fa fa-search"
+        />
+      </button>
+    </form>
+  </div>,
+]
+`;
+
+exports[`match snapshot table component 1`] = `
+Array [
+  <div
+    className="topSection"
+    data-testid="searchBox-1"
+  >
+    <h1
+      id="topHeader"
+    >
+      Search your repository
+    </h1>
+    <p>
+      A repository contains all the files of your project, including the revision history.
+    </p>
+  </div>,
+  <div
+    className="content"
+  >
+    <form
+      className="example"
+      style={
+        Object {
+          "margin": "auto",
+          "maxWidth": "300px",
+        }
+      }
+    >
+      <input
+        className="searchbox"
+        placeholder="Enter username"
+        type="text"
+      />
+      <button
+        onClick={[Function]}
+      >
+        <i
+          className="fa fa-search"
+        />
+      </button>
+    </form>
+  </div>,
+]
+`;
